@@ -223,6 +223,5 @@ This project uses Prisma to manage schemas and database clients:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Developer
+Hitesh Umesh
